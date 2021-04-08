@@ -1,6 +1,6 @@
 # DeepLearning-Assignment4
 - Apply mini-batch gradient descent with appropriate batch size
-- Use appropriate learning rate (can be adaptive per epoch)
+- Use appropriate learning rate
 - Apply dropout - find appropriate dropout rate at each layer
 - Initialize random weights properly before training
 - Do basic image augmentation of training data using Keras
